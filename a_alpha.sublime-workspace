@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"ba",
+				"badtimer"
+			],
+			[
+				"b",
+				"badguy"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"bad",
+				"badtimer"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"echo",
+				"echo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/darrenwillans/Sites/a_alpha_blog"
+	],
+	"file_history":
+	[
+		"/Users/darrenwillans/Sites/alpha-blog/app/views/pages/about.html.erb",
+		"/Users/darrenwillans/Sites/alpha-blog/app/views/pages/home.html.erb",
+		"/Users/darrenwillans/Sites/alpha-blog/app/controllers/pages_controller.rb",
+		"/Users/darrenwillans/Sites/alpha-blog/config/routes.rb",
+		"/Users/darrenwillans/Sites/alpha-blog/config/database.yml",
+		"/Users/darrenwillans/Sites/alpha-blog/config/cable.yml",
+		"/Users/darrenwillans/Sites/bloopicc/app/controllers/posts_controller.rb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/controllers/cards_controller.rb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/assets/javascripts/application.js",
+		"/Users/darrenwillans/Sites/mtg-archive/app/views/cards/index.html.erb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/controllers/application_controller.rb",
+		"/Users/darrenwillans/Sites/bloopicc/app/controllers/application_controller.rb",
+		"/Users/darrenwillans/Sites/pets/app/views/pets/index.html.erb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/views/cards/_form.html.erb",
+		"/Users/darrenwillans/Sites/pets/config/initializers/carrier_wave.rb",
+		"/Users/darrenwillans/Sites/pets/Gemfile",
+		"/Users/darrenwillans/Sites/mtg-archive/app/models/card.rb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/uploaders/image_uploader.rb",
+		"/Users/darrenwillans/Sites/mtg-archive/config/initializers/carrier_wave.rb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/views/layouts/_navigation.html.erb",
+		"/Users/darrenwillans/Sites/mtg-archive/Gemfile",
+		"/Users/darrenwillans/Desktop/Daz12Mish",
+		"/Users/darrenwillans/Desktop/AdministrationSmiley Very HappySL Setting",
+		"/Users/darrenwillans/Sites/mtg-archive/app/views/cards/show.html.erb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/assets/stylesheets/base/base.scss",
+		"/Users/darrenwillans/Sites/mtg-archive/config/database.yml",
+		"/Users/darrenwillans/Sites/mtg-archive/db/development.sqlite3",
+		"/Users/darrenwillans/Sites/mtg-archive/db/test.sqlite3",
+		"/Users/darrenwillans/Sites/mtg-archive/db/schema.rb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/assets/stylesheets/base/buttons.scss",
+		"/Users/darrenwillans/Sites/mtg-archive/config/routes.rb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/views/cards/edit.html.erb",
+		"/Users/darrenwillans/Sites/mtg-archive/db/production.sqlite3",
+		"/Users/darrenwillans/Sites/mtg-archive/db/migrate/20170610083544_create_cards.rb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/controllers/home_controller.rb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/views/layouts/application.html.erb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/views/home/another.html.erb",
+		"/Users/darrenwillans/Sites/mtg-archive/app/views/home/index.html.erb",
+		"/Users/darrenwillans/Sites/inspinia1/db/making_migrations",
+		"/Users/darrenwillans/Sites/mtg-archive/app/views/layouts/_footer.html.erb",
+		"/Users/darrenwillans/Sites/mtg-archive/config.ru",
+		"/Users/darrenwillans/Sites/inspinia1/app/models/.keep",
+		"/Users/darrenwillans/Sites/inspinia1/db/schema.rb",
+		"/Users/darrenwillans/Sites/inspinia1/db/seeds.rb",
+		"/Users/darrenwillans/Sites/inspinia1/app/views/home/minor.html.erb",
+		"/Users/darrenwillans/Sites/inspinia1/db/test.sqlite3",
+		"/Users/darrenwillans/Sites/inspinia1/Gemfile",
+		"/Users/darrenwillans/Sites/test1/app/controllers/magic_controller.rb",
+		"/Users/darrenwillans/Sites/test1/app/views/cards/new.html.erb",
+		"/Users/darrenwillans/Sites/test1/app/controllers/cards_controller.rb",
+		"/Users/darrenwillans/Sites/test1/config/routes.rb",
+		"/Users/darrenwillans/Sites/test1/app/views/magic/index.html.erb",
+		"/Users/darrenwillans/Sites/test1/app/views/magic1/index.html.erb",
+		"/Users/darrenwillans/Sites/test1/app/controllers/magic1_controller.rb",
+		"/Users/darrenwillans/Sites/test1/app/views/magics/new.html.erb",
+		"/Users/darrenwillans/Sites/test1/app/views/magics/index.html.erb",
+		"/Users/darrenwillans/Sites/test1/db/database.yml",
+		"/Users/darrenwillans/Sites/test1/test1",
+		"/Users/darrenwillans/Sites/test1/Gemfile",
+		"/Users/darrenwillans/Desktop/arkem horror",
+		"/Users/darrenwillans/Desktop/unzip the xz file into a img",
+		"/Users/darrenwillans/Desktop/kali-linux-light-2016.2-armhf/kali-linux-light-2016.2-armhf.txt.sha1sum",
+		"/Users/darrenwillans/Desktop/starfish",
+		"/Users/darrenwillans/Desktop/pikey-randomart",
+		"/Users/darrenwillans/python_learn/projects/games/spaceinv/pivaders.py",
+		"/Users/darrenwillans/Desktop/cipher.py",
+		"/Users/darrenwillans/Desktop/cesar.py",
+		"/Users/darrenwillans/python_learn/projects/games/spaceinv/space-invaders.py",
+		"/Users/darrenwillans/Desktop/game.py",
+		"/Users/darrenwillans/Desktop/learn the python",
+		"/Users/darrenwillans/python_learn/projects/games/gobbo/hello.py",
+		"/Users/darrenwillans/python_learn/projects/games/gobbo/gobbo.py",
+		"/Users/darrenwillans/Desktop/gobbo.py",
+		"/Users/darrenwillans/Desktop/Hi Lianne",
+		"/Users/darrenwillans/python_learn/projects/games/tile.py",
+		"/Users/darrenwillans/Documents/pythondev/games/race.py",
+		"/Users/darrenwillans/Desktop/led1.py",
+		"/Users/darrenwillans/Desktop/rsync_cmd.txt",
+		"/Users/darrenwillans/Desktop/tightvncserver",
+		"/Users/darrenwillans/Desktop/cleanup.py",
+		"/Users/darrenwillans/Desktop/rpi/mame/galaga-controls",
+		"/Users/darrenwillans/Desktop/rpi/mame/pi-mame-issues",
+		"/Users/darrenwillans/Desktop/system.db",
+		"/Users/darrenwillans/repos/simple_cms/config/routes.rb",
+		"/Users/darrenwillans/Desktop/rbpi.txt",
+		"/Users/darrenwillans/Desktop/sublime-license",
+		"/Users/darrenwillans/Desktop/lightbox1.css",
+		"/Users/darrenwillans/Desktop/Dragons of Tarkir_files/4229659068-postmessagerelay.js",
+		"/Users/darrenwillans/.bash_profile.pysave",
+		"/Users/darrenwillans/.bashrc",
+		"/Users/darrenwillans/.bashrc.bac",
+		"/Users/darrenwillans/.bash_profile",
+		"/Users/darrenwillans/.bash_history",
+		"/Users/darrenwillans/rails/menu/app/views/layouts/application.html.erb",
+		"/Users/darrenwillans/rails/menu/app/views/menu/about page.html.erb",
+		"/Users/darrenwillans/rails/menu/app/views/menu/index.html.erb",
+		"/Users/darrenwillans/Desktop/minecraft stuff/spig10/server.properties",
+		"/Users/darrenwillans/Desktop/common python commands",
+		"/Users/darrenwillans/Desktop/Open Sans/stylesheet.css",
+		"/Users/darrenwillans/Sites/guest/viewguestbook.php",
+		"/Users/darrenwillans/Sites/ops.php",
+		"/Users/darrenwillans/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/darrenwillans/Sites/116art/wp-config.php",
+		"/Users/darrenwillans/Sites/foodie/index.shtml",
+		"/Users/darrenwillans/Sites/guest/guestbook.php",
+		"/Users/darrenwillans/Sites/guest/addguestbook.php",
+		"/Users/darrenwillans/Sites/guest/guestbook.html",
+		"/Users/darrenwillans/Sites/login/main_login.php",
+		"/Users/darrenwillans/Sites/login/checklogin.php",
+		"/Users/darrenwillans/Sites/login/login_success.php",
+		"/Users/darrenwillans/Sites/login/ logout.php",
+		"/Users/darrenwillans/Sites/shop/footer.php",
+		"/Users/darrenwillans/Sites/shop/index.php",
+		"/Applications/MAMP/conf/php5.6.2/php.ini",
+		"/Users/darrenwillans/Sites/horoscope/ReadMe.txt",
+		"/Users/darrenwillans/Sites/index.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"><%=",
+			"f.number_field",
+			"table",
+			".tp-bullets.simplebullets",
+			".tp-bullets.simplebullets.round .bullet",
+			"middle",
+			"Xdebug.remote_host",
+			"Xdebug.remote_host "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "a_alpha.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
