@@ -2482,3 +2482,21 @@ Processing by HomeController#minor as HTML
   Rendered layouts/_topnavbar.html.erb (0.0ms)
   Rendered layouts/_footer.html.erb (0.0ms)
 Completed 200 OK in 80ms (Views: 79.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2017-08-13 13:44:54 +0800
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 109ms (Views: 108.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2017-08-13 13:44:56 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (0.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 97ms (Views: 96.1ms | ActiveRecord: 0.0ms)
